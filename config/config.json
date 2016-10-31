@@ -1,6 +1,6 @@
 {
   "sockConfig":{
-    "host":"192.168.0.160",
-    "port":9055
+    "host":"localhost", // Your Tor application server IP address.
+    "port":9066 // Your Tor application service PORT number.
   }
 }
